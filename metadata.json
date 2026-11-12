@@ -1,0 +1,6 @@
+{
+  "name": "InkaCRM - Platform CRM & Sales Management B2B Terintegrasi",
+  "description": "Platform CRM SaaS multi-tenant untuk bisnis Indonesia: kelola prospek, WhatsApp unified inbox, sales pipeline kanban, otomatisasi round-robin, dan analitik konversi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
